@@ -15,8 +15,8 @@ public class MyDao {
 
     //获取连接
     String url="jdbc:mysql://172.31.224.1:3306/db?useSSL=false";
-    String username = "wsz";
-    String password = "123456";
+    String username = "";
+    String password = "";
 
 
 
